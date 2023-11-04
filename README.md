@@ -12,7 +12,7 @@ There's nothing special about **Nedi (네디)**
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511fa.svg?style=flat&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00c4cc.svg?style=flat&logo=Canva&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-2d3d4d.svg?style=flat&logoColor=white)
 
 _Note: The above technology does not show my level of expertise or anything like that._
