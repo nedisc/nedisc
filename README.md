@@ -1,6 +1,6 @@
-# Hi, there (야) 👋
+# Hi, there 👋
 
-There's nothing special about **Nedi (네디)**
+There's nothing special about (**네디: _nedi_**)
 
 **I use daily** ⤵
 
