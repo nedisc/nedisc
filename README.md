@@ -1,6 +1,6 @@
 # Halo 👋
 
-Tidak ada yang istimewa tentang (**네디: _nedi_**)
+Tidak ada yang istimewa tentang _**Nedi** (dy)_
 
 **Saya pakai tiap hari** ⤵
 
